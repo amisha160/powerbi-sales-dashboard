@@ -24,4 +24,6 @@ Tools Used
 
 Dashboard Preview
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d4123eb-0a57-4869-807f-745e8ee771c0" />
+
+<img width="1436" height="793" alt="image" src="https://github.com/user-attachments/assets/a83e0751-1a2c-4671-8496-6e3bafd9379c" />
+
